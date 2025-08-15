@@ -1,5 +1,6 @@
+package beginning;
 public class main {
-        public static void main(String[] args) {
+        public main(String[] args) {
                 System.out.println("hello world");
         }
 }
