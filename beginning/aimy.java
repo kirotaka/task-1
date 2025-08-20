@@ -2,9 +2,9 @@ package beginning;
 public class aimy {
     String name;
     String birthday;
-    double age;
+    int age;
 
-    void setprice (double age){
+    void setprice (int age){
         this.age = age; 
     }
     
@@ -12,8 +12,6 @@ public class aimy {
 /* im making a password combination for her
  * cause why not
  */
-
-        
         aimy aimiel = new aimy();
         aimiel.name = "Khrzzy aimiel villanueva";
         aimiel.birthday = "march 31 2006";
